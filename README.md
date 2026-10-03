@@ -1,1 +1,2 @@
-"Declan Osterhaus" 
+Declan Osterhaus
+osterhad@oregonstate.edu
